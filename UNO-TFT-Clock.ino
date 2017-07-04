@@ -1,5 +1,5 @@
 /***************************************************************************** 
-  "Simple Clock" by TomTekTime2 05-29-17
+  "Simple Clock" by TomTekTime 05-29-17
 
 HARDWARE: 
   Arduino Uno https://www.amazon.com/Elegoo-ATmega328P-ATMEGA16U2-Compatible-Arduino/dp/B01EWOE0UU/ref=sr_1_4?ie=UTF8&qid=1499188869&sr=8-4&keywords=arduino+uno
